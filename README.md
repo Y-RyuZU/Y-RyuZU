@@ -1,3 +1,3 @@
-[![Y-RyuZU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-RyuZU&theme=vue-dark&show_icons=true)](https://github.com/Y-RyuZU/github-readme-stats)
+[![Y-RyuZU's GitHub stats](https://github-readme-stats-dh2ul28w8-y-ryuzus-projects.vercel.app/api?username=Y-RyuZU&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-RyuZU&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Y-RyuZU/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dh2ul28w8-y-ryuzus-projects.vercel.app/api/top-langs/?username=Y-RyuZU&layout=compact&theme=dark&langs_count=8)
